@@ -30,6 +30,7 @@ void draw() {
   String course3 = "com science 10";
   String course4 = "Math 20-1";
   
+  textSize(12);
   fill(0,0,0);
   text(teacher1,200,20);
   text(course1,200,40); //The block1 course and teacher's name
@@ -43,5 +44,9 @@ void draw() {
   text(teacher4,200,215);
   text(course4,200,235); //the information for block4
 
+  textSize(20);
+  text("Block1",45,40);
+  
+  
 
 }
