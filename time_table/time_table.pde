@@ -45,8 +45,8 @@ void draw() {
   text(course4,200,235); //the information for block4
 
   textSize(20);
-  text("Block1",45,40);
+  text("Block1",45,40); // type block1 on time table
   
-  
+  text("Block2",45,105); //type block2 on time table
 
 }
