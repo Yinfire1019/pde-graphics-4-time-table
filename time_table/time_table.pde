@@ -49,4 +49,8 @@ void draw() {
   
   text("Block2",45,105); //type block2 on time table
 
+  text("Block3",45,170); //block3
+  
+  text("Block4",45,235); //block4
+
 }
